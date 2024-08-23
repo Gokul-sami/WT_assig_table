@@ -7,8 +7,12 @@ table{
 }
 
 audio{
-    width: auto;
+    width: 100%;
     background-color: #4bd1fa;
+}
+
+h2{
+    color: #007fa5;
 }
 
 div{
