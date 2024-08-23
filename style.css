@@ -1,15 +1,14 @@
 body{
-    background-color: rgb(3, 205, 255);
+    background-color: #4bd1fa;
 }
 
 table{
-    background-color: rgb(21, 13, 13);
-    border-style: solid;
+    background-color: #afecff;
 }
 
 audio{
     width: auto;
-    background-color: rgb(3, 205, 255);
+    background-color: #4bd1fa;
 }
 
 div{
@@ -17,4 +16,9 @@ div{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+hr{
+    font-weight: bolder;
+    color: black;
 }
