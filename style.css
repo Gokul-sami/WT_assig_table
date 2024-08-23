@@ -1,4 +1,20 @@
-.table{
-    background-color: rgb(205, 202, 202);
+body{
+    background-color: rgb(3, 205, 255);
+}
+
+table{
+    background-color: rgb(21, 13, 13);
     border-style: solid;
+}
+
+audio{
+    width: auto;
+    background-color: rgb(3, 205, 255);
+}
+
+div{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
